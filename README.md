@@ -4,5 +4,5 @@
 This repository was made to upload my plots and scripts for the [TidyTuesday challenge](https://github.com/rfordatascience/tidytuesday).
 
 **Contents:**  
-There is a folder per submission with the date in the form yyyy-mm-dd as name, with script and output within it.
+There is a folder per submission with the date in the form _yyyy-mm-dd_ as name, with script and output within it.
 
