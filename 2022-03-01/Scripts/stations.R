@@ -24,7 +24,7 @@ cities_stations<- stations %>%
   
 
 
-# barplot
+# count plot
 cities_stations %>%  ggplot(aes(x=FUEL_TYPE_CODE, y=CITY)) + 
   geom_count(aes(size=1), colour="lightgrey") +
   geom_count(aes(size=proportion, group=CITY), colour="cornflowerblue")  +
