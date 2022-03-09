@@ -70,7 +70,7 @@ world <- map_data("world")
                      fill = proportion),  
                  color = "black")+
     coord_map(xlim = c(-24,50), ylim = c(30,70.5))+
-    labs(title = "European females engaged in exchange programs",
+    labs(title = "EU female mobility",
          subtitle = "Females in Erasmus programs by sending country, 2019", caption ="Source: data.europa.eu"
     )+
     theme_void()+
